@@ -1,0 +1,13 @@
+# conda env create -f environment.yml
+
+name: chrome_extract
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.9
+  - pycryptodome
+  - pandas
+  - openpyxl
+  - pywin32
