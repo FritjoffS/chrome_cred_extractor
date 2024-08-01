@@ -69,24 +69,9 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- GitHub: [@yourusername](https://github.com/FritjoffS)
 
 ## 🙏 Acknowledgments
 
 - Google Chrome documentation
 - Python cryptography community
-
-This README provides:
-A clear description of what the script does
-An important disclaimer about ethical use
-Features of the script
-Requirements and installation instructions
-Usage guide
-File structure
-Security note
-Licensing information
-Contribution guidelines
-Author information
-Acknowledgments
-Remember to replace placeholders like yourusername with your actual GitHub username, and add any other specific details about your project. Also, ensure you have a LICENSE file in your repository if you mention it in the README.
