@@ -69,7 +69,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/FritjoffS)
+- GitHub: [@FritjoffS](https://github.com/FritjoffS)
 
 ## 🙏 Acknowledgments
 
